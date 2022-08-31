@@ -1,0 +1,6 @@
+@use "nav";
+@use "colors";
+
+nav {
+     @include nav.navStyle;
+}

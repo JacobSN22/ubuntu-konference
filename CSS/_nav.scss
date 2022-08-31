@@ -1,0 +1,10 @@
+@mixin navStyle {
+    li {
+        display: inline;
+    }
+
+    a {
+        text-decoration: none;
+        color: red;
+    }
+}

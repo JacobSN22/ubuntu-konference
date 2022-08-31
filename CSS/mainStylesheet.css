@@ -1,1 +1,7 @@
-/*# sourceMappingURL=mainStylesheet.css.map */
+nav li {
+  display: inline;
+}
+nav a {
+  text-decoration: none;
+  color: red;
+}/*# sourceMappingURL=mainStylesheet.css.map */
